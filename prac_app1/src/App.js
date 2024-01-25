@@ -5,6 +5,9 @@ function App() {
     <>
       app
       <Box1 />
+      <Box1 />
+      <Box1 />
+      <Box1 />
     </>
   );
 }
