@@ -11,7 +11,7 @@ const Box1 = () => {
         <>
             <div
                 className={classNameStr}
-                onClick={()=>{toggleSelection()}}
+                onClick={toggleSelection}
             >
                 box1 - {selInfo.clickedCount}
             </div>
