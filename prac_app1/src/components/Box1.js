@@ -1,5 +1,4 @@
 import useSelected from "./box1_hook";
-import './box1.css';
 
 const Box1 = () => {
     const [selInfo, toggleSelection] = useSelected();
